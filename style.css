@@ -1,6 +1,6 @@
-h1{
+#titulo {
     text-align: center;
-    color: chartreuse;
+    color: rgb(47, 87, 8);
     font-size: 40px;
 }
 
@@ -10,10 +10,10 @@ h2{
     font-size: 30px;
 }
 
-p{
+.texto {
     
     text-align: center;
-    color: green;
+    color: rgb(0, 13, 128);
     font-size: 20px;
 }
 
