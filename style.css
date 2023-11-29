@@ -34,3 +34,8 @@ header{
     color: #57964E;
     text-align: center;
 }
+
+.cabecalho-titulo{
+    font-size: 20px;
+    color:#57964E;
+}
