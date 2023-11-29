@@ -26,4 +26,10 @@ body {
     color: #57964E;
 }
 
-
+header{
+    padding: 20px;
+    background-color: black;
+    border-bottom: 2px solid white;
+    font-size: 32px;
+    color: #57964E;
+}
